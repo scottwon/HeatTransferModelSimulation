@@ -1,6 +1,8 @@
 # Heat Transfer Model Simulation for Multiple Layers of Medium
 This is the paper for the National Contest of Mathematical Modelling. This is a teamwork and my teammates are Zhiheng Zhang and Wenyao Li.
 
+This work won the second prize of National Contest of Mathematical Modelling.
+
 My major contributions are:
 
 1. To use forward difference method to solve the heat transfer equations numerically. First, I learned from textbooks how to use forward difference method to solve the heat transfer equations in the single-layer-medium case. Then, I managed to extend the forward difference method to the multiple-layer-medium case. I did both the modelling and the coding work within 3 days. 
